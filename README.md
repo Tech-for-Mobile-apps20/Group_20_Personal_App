@@ -35,33 +35,33 @@ For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to relo
 
 Following screenshots depict the login process of user into this mobile application:
 
-![Login_page](Screenshots/login-page.png){:width="50%"}
+![Login_page](Screenshots/login-page.png)
 
-![Login_page](Screenshots/Login-with-creds.png){:width="50%"}
+![Login_page](Screenshots/Login-with-creds.png)
 
 Following screenshot show the home screen of Learnify app:
 
-![Login_page](Screenshots/Home-screen.png){:width="50%"}
+![Login_page](Screenshots/Home-screen.png)
 
 Following screenshot show the category selection screen, where user can select the category of quiz:
 
-![Login_page](Screenshots/Category-selection.png){:width="50%"}
+![Login_page](Screenshots/Category-selection.png)
 
 Following screenshot show the Flashcards page, where user can see Quiz questions based on the selected category which is "Geography" here:
 
-![Login_page](Screenshots/Questions.png){:width="50%"}
+![Login_page](Screenshots/Questions.png)
 
 Following screenshot show the Flashcards page, where user can input answers for the quiz question. Score is calculated baed on these inputs which is displayed at the end:
 
-![Login_page](Screenshots/User_answer.png){:width="50%"}
+![Login_page](Screenshots/User_answer.png)
 
 Following screenshot show the Flashcards page, here user can learn about the Quiz question by flipping question card. This shows Quiz answer to the user:
 
-![Login_page](Screenshots/Answer.png){:width="50%"}
+![Login_page](Screenshots/Answer.png)
 
 Following screenshot show Quiz Finished page, where user score of the quiz is displayed. This page also has an option for user to Restart Quiz:
 
-![Login_page](Screenshots/Quiz_complete.png){:width="50%"}
+![Login_page](Screenshots/Quiz_complete.png)
 
 ## Video Demonstration
 

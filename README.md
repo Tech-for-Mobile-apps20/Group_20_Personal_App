@@ -1,4 +1,4 @@
-# Learnify(Personalized Quiz)
+# Learnify(Personalized Flashcard Quiz)
 
 This mobile application Learnify is a flashcard quiz application to revolutionize traditional learning methods by having interactive platform where users can have memorization across various topics. Main goal of this application is to address the challenges faced by everyday normal learning methods, to replace those methods with users study cards having questions and answers on different topics. This mobile application also allows users to track their progress based on their learning experiences.
 
